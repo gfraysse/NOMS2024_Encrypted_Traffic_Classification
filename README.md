@@ -1,3 +1,5 @@
+This code has been merged in to the main project repo : [https://github.com/nds-group/ETC_NOMS_2024](https://github.com/nds-group/ETC_NOMS_2024).
+
 # ENCRYPTED TRAFFIC CLASSIFICATION
 
 This repo contains the scripts used for the data preparation and data engineering used in the paper [Encrypted Traffic Classification at Line Rate in Programmable Switches with Machine Learning](https://dspace.networks.imdea.org/handle/20.500.12761/1791) by Aristide Tanyi-Jong Akem, Guillaume Fraysse, Marco Fiore presented at IEEE/IFIP Network Operations and Management Symposium (NOMS) 2024.
